@@ -24,7 +24,7 @@ provide the overall bookstore experience. It  allows customers and administrator
 **Getting Started**
 
     1.Clone the Repository
-        git clone https://github.com/Aparna-Thirumoorthy_niq/book-store-web.git
+        git clone https://github.com/AparnaT001/book-store-web.git
 
     2.Add the database details in application-dev.properties
 
